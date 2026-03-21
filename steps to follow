@@ -1,0 +1,15 @@
+Steps We Will Do
+Load and clean dataset (fix datatypes, handle nulls/duplicates).
+Perform data wrangling to make dataset analysis-ready.
+Generate descriptive statistics and define KPIs.
+Create visualizations (histograms, bar charts, boxplots, KDE, pie, scatter, etc.).
+Analyze trends and interpret insights.
+Conclude findings and suggest solutions to business objectives.
+
+
+KPIs
+• Customer Demographics - Average Age, Distribution of Occupation, No. Of Customers by Income Group
+• Financial Behavior – Average Annual Income, Average Monthly In-Hand Salary, Average Debt-to-Income Ratio, Average Credit Utilization Ratio, Average No. Of Bank Accounts, Average No. Of Credit Cards.
+• Loan & Credit Performance – Avg No. Of Loans Per Customer, Avg Interest Rate, Total EMI as % Of Income (EMI Burden Ratio), Avg Credit History Age.
+• Risk & Fraud Indicators – Avg No. Of Delayed Payments, Delay from Due date (avg, min, max), % of Customers with Frequent Credit Inquiries, % of Customers with Changed Credit Limit, Distribution of Credit Score Categories (Good/Standard/Poor)
+• Behavioral Insights – Distribution of Payment Behavior, % of Customers who Pay Minimum Amount Only.
