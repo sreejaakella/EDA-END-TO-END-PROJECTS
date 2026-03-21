@@ -13,3 +13,30 @@ KPIs
 • Loan & Credit Performance – Avg No. Of Loans Per Customer, Avg Interest Rate, Total EMI as % Of Income (EMI Burden Ratio), Avg Credit History Age.
 • Risk & Fraud Indicators – Avg No. Of Delayed Payments, Delay from Due date (avg, min, max), % of Customers with Frequent Credit Inquiries, % of Customers with Changed Credit Limit, Distribution of Credit Score Categories (Good/Standard/Poor)
 • Behavioral Insights – Distribution of Payment Behavior, % of Customers who Pay Minimum Amount Only.
+
+• Demographic Analysis –
+Bar Chart – Customers by Occupation.
+Histogram – Age Distribution.
+Boxplot – Annual Income by Occupation.
+• Income & Salary Insights –
+Histogram – Annual Income Distribution.
+Boxplot – Monthly In-hand Salary vs Credit Score.
+KDE Plot – Income Distribution (Good vs Poor).
+• Credit & Loan Analysis –
+Bar Chart – Avg Number of Loans vs Credit Score.
+Stacked Bar Chart – Types of Loans Availed by Customers.
+Scatter Plot – Outstanding Debt vs Annual Income (colored by Credit Score).
+
+
+• Risk & Fraud Indicators -
+Boxplot – Delayed Payments vs Credit Score.
+Histogram – Delay from Due Date Distribution.
+Bar Chart – Credit Utilization Ratio vs Credit Score.
+Heatmap – Correlation between numerical features (i.e - Income, Debt, EMI).
+• Behavioral Patterns -
+Pie Chart – Payment Behavior Distribution.
+Bar Chart – Payment of Min Amount (Yes/No) vs Credit Score.
+Stacked Bar – Payment Behavior vs Occupation.
+• Overall Credit Score Analysis -
+Pie Chart – % of Customers in Good, Standard, Poor Categories.
+Bar Chart – Avg Debt, EMI, Utilization across Credit Score Categories.
