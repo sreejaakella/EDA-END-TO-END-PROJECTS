@@ -4,31 +4,39 @@ Approximately 35–40% of total bookings fall under the cancelled category.
 Interpretation
 This indicates a major business concern, as high cancellation rates directly impact revenue and operational planning.
 2. Hotel Type Analysis
-When comparing hotel types, City Hotels have a higher number of bookings compared to Resort Hotels. However, City Hotels also experience a higher number of cancellations.
+When comparing hotel types, City Hotels have a higher number of bookings compared to Resort Hotels. 
+However, City Hotels also experience a higher number of cancellations.
 Interpretation
-City Hotels attract more customers due to location advantages, but they are also more prone to cancellations, possibly due to flexible booking behavior.
+City Hotels attract more customers due to location advantages, but they are also more prone to cancellations, 
+possibly due to flexible booking behavior.
 3. Average Daily Rate (ADR) Distribution
-The distribution of ADR shows that most bookings are concentrated within a moderate price range, while a smaller number of bookings fall into higher price categories.
+The distribution of ADR shows that most bookings are concentrated within a moderate price range, 
+while a smaller number of bookings fall into higher price categories.
 Interpretation
 Customers generally prefer affordable or mid-range pricing, and extremely high prices are less common.
 4. ADR vs Cancellation Analysis
 A comparison between ADR and reservation status reveals that higher-priced bookings tend to have higher cancellation rates.
 Interpretation
-Price is a critical factor influencing customer decisions. Customers are more likely to cancel bookings when the cost is high, suggesting price sensitivity.
+Price is a critical factor influencing customer decisions. Customers are more likely to cancel bookings when the cost is high, 
+suggesting price sensitivity.
 5. Monthly Booking Trends
-Booking patterns across months indicate that demand is not uniform throughout the year. There is a noticeable increase in bookings during mid-year months such as July and August, while early months show lower demand.
+Booking patterns across months indicate that demand is not uniform throughout the year. There is a noticeable increase in 
+bookings during mid-year months such as July and August, while early months show lower demand.
 Interpretation
 This highlights the presence of seasonality, where demand peaks during holiday or travel seasons.
 6. Monthly Cancellation Trends
 Cancellation rates also vary across months, with certain months such as January showing higher cancellation rates.
 Interpretation
-This suggests that during off-season periods, customers are more uncertain about their travel plans, leading to increased cancellations.
+This suggests that during off-season periods, customers are more uncertain about their travel plans, leading to 
+increased cancellations.
 7. Market Segment Analysis
-The majority of bookings come from Online Travel Agents (OTA), followed by group bookings. Direct bookings contribute only a small percentage of the total.
+The majority of bookings come from Online Travel Agents (OTA), followed by group bookings. 
+Direct bookings contribute only a small percentage of the total.
 Interpretation
 Hotels are highly dependent on third-party platforms for bookings, which may reduce profit margins due to commission fees.
 8. Country-wise Analysis
-The data shows that certain countries contribute more to cancellations than others, with Portugal having one of the highest cancellation rates.
+The data shows that certain countries contribute more to cancellations than others, with Portugal having one of the 
+highest cancellation rates.
 Interpretation
 Customer behavior varies across regions, indicating the need for region-specific strategies to reduce cancellations.
 🔍 Overall EDA Summary
